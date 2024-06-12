@@ -1,0 +1,55 @@
+body 
+{background-color: antiquewhite;
+    color: #c02424;
+}
+button
+{background-color: rgb(54, 14, 231);
+color: bisque;
+}
+.person {
+width: 10%;
+height: 10%;
+border-radius: 50%;
+}
+ol {
+    font-style: italic;
+}
+.developer {
+    background-color: aquamarine;
+    text-align: center;
+};
+.text{
+    background-color: blue;
+    color: black;
+}
+img {
+    width: 400px;
+    height: 300px
+  }
+  form {
+    border-radius: 5px;
+    margin: auto;
+    border: 2px ;
+    width: 500px;
+  }
+  label {
+    margin-bottom: 8px ;
+    display: block ;
+
+}
+
+input [type="Done" ]{
+    padding: 7px;
+cursor: pointer;
+}
+.input {
+    background-color: aqua;
+    
+}
+
+
+
+
+
+
+  

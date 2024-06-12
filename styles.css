@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(1, 1, 12);
+    color: white;
+    text-align: center;
+}
+
+.me {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}
+ul {
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    font-style: italic;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10%;
+    margin: 40px;
+    border: none;
+    
+}
+.container{
+    background-color: azure;
+    color: black;
+    color: #ff0000;
+
+
+}
+form {
+    width: 600px;
+    margin:auto;
+    border: 1px; 
+    border-radius: 8px;
+
+}
+label {
+    display: block;
+    margin-bottom: 5px ;
+
+}
+input[type="submit"]{
+padding: 10px;
+cursor: pointer;
+}
+textarea{
+    width: 30px;
+}
